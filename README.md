@@ -14,7 +14,7 @@ In this course project, we've created a robust Todo List app that not only showc
 
 ### Learning Objectives
 
-**By exploring this Todo List project, you will gain insights into:**
+*By exploring this Todo List project, you will gain insights into:*
 
 * SwiftUI essentials and advanced features
 * MVVM architecture pattern and its implementation
